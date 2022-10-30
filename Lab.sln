@@ -5,7 +5,12 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab-Week-3", "Lab-Week-3\Lab-Week-3.csproj", "{72DDC037-F3EF-4E25-9739-0525BECD4A96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab-Week-2", "Lab-Week-2\Lab-Week-2.csproj", "{FB25E1B8-192F-44AA-8418-4BB548F118A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab-Week-2", "Lab-Week-2\Lab-Week-2.csproj", "{FB25E1B8-192F-44AA-8418-4BB548F118A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab-Week-4", "Lab-Week-4", "{57ECE494-3B65-48DD-B35E-EE3486AF63C2}"
+	ProjectSection(SolutionItems) = preProject
+		Week4.txt = Week4.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
